@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tanks battle game", "Tanks battle game.csproj", "{C37CA4BA-668F-2638-8AFF-CCA9A246F8B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tanks battle game.Editor", "Tanks battle game.Editor.csproj", "{BFE8E6FF-6A5A-C4FE-0DB7-B464D96FAA8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C37CA4BA-668F-2638-8AFF-CCA9A246F8B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37CA4BA-668F-2638-8AFF-CCA9A246F8B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37CA4BA-668F-2638-8AFF-CCA9A246F8B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37CA4BA-668F-2638-8AFF-CCA9A246F8B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFE8E6FF-6A5A-C4FE-0DB7-B464D96FAA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE8E6FF-6A5A-C4FE-0DB7-B464D96FAA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE8E6FF-6A5A-C4FE-0DB7-B464D96FAA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE8E6FF-6A5A-C4FE-0DB7-B464D96FAA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
