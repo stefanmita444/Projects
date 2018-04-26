@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 2557
+  controlID: 1438
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -124,7 +124,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 2558
+  controlID: 1370
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -183,9 +183,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.102309704, y: 2.8874092, z: 2.1225488}
+    m_Target: {x: 0.13649476, y: 2.9570847, z: 2.2055287}
     speed: 2
-    m_Value: {x: 0.102309704, y: 2.8874092, z: 2.1225488}
+    m_Value: {x: 0.13649476, y: 2.9570847, z: 2.2055287}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -208,13 +208,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.080274515, y: -0.7645391, z: 0.0970866, w: -0.6321496}
+    m_Target: {x: -0.21539737, y: -0.63734657, z: 0.19214565, w: -0.71447635}
     speed: 2
-    m_Value: {x: 0.080274515, y: 0.7645391, z: -0.0970866, w: 0.6321496}
+    m_Value: {x: 0.21539737, y: 0.63734657, z: -0.19214565, w: 0.71447635}
   m_Size:
-    m_Target: 2.0423346
+    m_Target: 3.6099546
     speed: 2
-    m_Value: 2.0423346
+    m_Value: 3.6099546
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -300,7 +300,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 2301
+  controlID: 1392
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -353,10 +353,10 @@ MonoBehaviour:
     width: 397
     height: 464
   m_TreeViewState:
-    scrollPos: {x: 0, y: 65}
-    m_SelectedIDs: 249dffff
-    m_LastClickedID: -25308
-    m_ExpandedIDs: 30fbffff3efbffff9cfbffffa4fbffffa6fbffff00000000422b00006a2b0000
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 582b0000
+    m_LastClickedID: 11096
+    m_ExpandedIDs: a6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -442,19 +442,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Models
+    - Assets/Scripts/Shell
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Models
+  - Assets/Scripts/Shell
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\smita\Desktop\School Projects\SchoolProjects\Tanks battle
     game
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 8c280000
-    m_LastClickedID: 10380
+    m_SelectedIDs: 702a0000
+    m_LastClickedID: 10864
     m_ExpandedIDs: 0000000026280000e42a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -508,8 +508,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 249dffff
-    m_LastClickedInstanceID: -25308
+    m_SelectedInstanceIDs: 582b0000
+    m_LastClickedInstanceID: 11096
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 34060000
     m_RenameOverlay:
@@ -535,7 +535,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 28}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 16
   m_DirectoriesAreaWidth: 185
 --- !u!114 &13
