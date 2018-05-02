@@ -21,10 +21,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 713, y: 492}
-  m_MaxSize: {x: 18008, y: 14042}
+  m_MinSize: {x: 709, y: 471}
+  m_MaxSize: {x: 18004, y: 14021}
   vertical: 0
-  controlID: 787
+  controlID: 1203
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -121,10 +121,10 @@ MonoBehaviour:
     y: 0
     width: 1172
     height: 947
-  m_MinSize: {x: 202, y: 442}
-  m_MaxSize: {x: 4002, y: 8042}
+  m_MinSize: {x: 202, y: 421}
+  m_MaxSize: {x: 4002, y: 8021}
   vertical: 1
-  controlID: 748
+  controlID: 1106
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -178,14 +178,14 @@ MonoBehaviour:
     width: 1170
     height: 465
   m_SceneLighting: 1
-  lastFramingTime: 2640.122141187045
+  lastFramingTime: 919.0723110770248
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.5070884, y: 1.944186, z: 1.9208903}
+    m_Target: {x: -0.6333099, y: -0.6002307, z: 0.9235417}
     speed: 2
-    m_Value: {x: -0.5070884, y: 1.944186, z: 1.9208903}
+    m_Value: {x: -0.6333099, y: -0.6002307, z: 0.9235417}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -208,13 +208,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.21539737, y: -0.63734657, z: 0.19214565, w: -0.71447635}
+    m_Target: {x: -0.26584986, y: 0.5067411, z: -0.16781881, w: -0.80273044}
     speed: 2
-    m_Value: {x: 0.21539737, y: 0.63734657, z: -0.19214565, w: 0.71447635}
+    m_Value: {x: -0.26584986, y: 0.5067411, z: -0.16781881, w: -0.80273044}
   m_Size:
-    m_Target: 4.697299
+    m_Target: 15.262693
     speed: 2
-    m_Value: 4.697299
+    m_Value: 15.262693
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -297,10 +297,10 @@ MonoBehaviour:
     y: 0
     width: 401
     height: 947
-  m_MinSize: {x: 234, y: 492}
-  m_MaxSize: {x: 10004, y: 14042}
+  m_MinSize: {x: 230, y: 471}
+  m_MaxSize: {x: 10000, y: 14021}
   vertical: 1
-  controlID: 788
+  controlID: 1157
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -354,9 +354,9 @@ MonoBehaviour:
     height: 464
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 66fbffff
-    m_LastClickedID: -1178
-    m_ExpandedIDs: 4cfbffff66fbffff9cfbffffa4fbffffa6fbffff00000000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: daebffffe6ebffff9cfbffffa4fbffffa6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -442,19 +442,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/Scripts/Tank
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/Scripts/Tank
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\smita\Desktop\School Projects\SchoolProjects\Tanks battle
     game
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 26280000
-    m_LastClickedID: 10278
+    m_SelectedIDs: 78290000
+    m_LastClickedID: 10616
     m_ExpandedIDs: 0000000026280000e42a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -508,9 +508,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 66fbffff
-    m_LastClickedInstanceID: -1178
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 34060000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -590,7 +590,7 @@ MonoBehaviour:
     y: 92
     width: 345
     height: 926
-  m_ScrollPosition: {x: 0, y: 60}
+  m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: 219
