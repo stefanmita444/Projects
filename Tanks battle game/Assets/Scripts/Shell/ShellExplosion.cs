@@ -1,5 +1,7 @@
 ﻿using UnityEngine;
 
+namespace complete
+{
 public class ShellExplosion : MonoBehaviour
 {
     public LayerMask m_TankMask;
@@ -61,4 +63,5 @@ public class ShellExplosion : MonoBehaviour
 		damage = Mathf.Max (0f, damage);
 		return damage;
     }
+}
 }
